@@ -57,3 +57,8 @@ O sistema implementa 6 validadores principais:
 
 ***
 
+# 📜 Configuração do Maven
+
+O projeto está configurado para usar Java 17, conforme especificado no `pom.xml`
+
+![Pom.xml](./img/pom.png) 
